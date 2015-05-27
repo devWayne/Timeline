@@ -1,0 +1,19 @@
+{
+  "name": "Timeline",
+  "version": "1.0.0",
+  "description": "output timeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/Timeline.git"
+  },
+  "author": "VI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/Timeline/issues"
+  },
+  "homepage": "https://github.com/devWayne/Timeline"
+}
